@@ -60,9 +60,6 @@
 			<?php wp_reset_postdata(); ?>
 		</aside>
 	</div>
-	<div class="new-posts sidebar-wrapper">
-		<?php test(); ?>
-	</div>
 	<div class="widget_info sidebar-wrapper">
 		<h4>
 			<i class="far fa-bell"></i>チッタからのお知らせ
